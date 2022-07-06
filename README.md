@@ -78,13 +78,6 @@ WARP Teams：https://owo.misaka.rest/cf-teams/
 
 这是因为你的WARP+流量不够导致的，还是乖乖刷好足够流量再尝试吧
 
-## 赞助我们
-
-![afdian-MisakaNo.jpg](https://s2.loli.net/2021/12/25/SimocqwhVg89NQJ.jpg)
-
-## 交流群
-[Telegram](https://t.me/misakanetcn)
-
 ## 鸣谢列表
 
 Fscarmen：https://github.com/fscarmen/warp
